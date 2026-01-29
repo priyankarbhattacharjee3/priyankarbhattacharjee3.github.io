@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://priyankarbhattacharjee3.github.io/personal/sitemap.xml
+Sitemap: https://priyankarbhattacharjee3.github.io/sitemap.xml
