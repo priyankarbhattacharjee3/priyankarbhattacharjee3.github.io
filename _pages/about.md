@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="https://dictionary.cambridge.org/dictionary/english/quirky">Quirky</a>.Researcher.Meghalayan
+subtitle: <a href="https://dictionary.cambridge.org/dictionary/english/quirky">Quirky</a> Researcher.Meghalayan
 
 profile:
   align: right
