@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a>Quirky </a>.Researcher .Meghalayan
+subtitle: <a>Quirky</a>.Researcher.Meghalayan
 
 profile:
   align: right
