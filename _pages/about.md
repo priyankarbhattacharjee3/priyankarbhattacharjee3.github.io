@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD researcher in Human-Computer Interaction (HCI) at the Dept. of Human Centred Design(https://hcd.iiitd.ac.in/), IIIT-Delhi. My research seeks to explore how to design technologies which allow older adults to meaningfully  explore the digital realm. I use both [coffee](https://www.webstaurantstore.com/article/397/types-of-coffee-drinks.html?srsltid=AfmBOopsN5QgxreTR_topPjgL4f6-sRyyqTyCD_kS8ZfZwrD4BpxRiPy), qualitative and quantitative methods in conducting my work. 
+I am a PhD researcher in Human-Computer Interaction (HCI) at the Dept. of [Human Centred Design](https://hcd.iiitd.ac.in/), IIIT-Delhi. My research seeks to explore how to design technologies which allow older adults to meaningfully  explore the digital realm. I use both [coffee](https://www.webstaurantstore.com/article/397/types-of-coffee-drinks.html?srsltid=AfmBOopsN5QgxreTR_topPjgL4f6-sRyyqTyCD_kS8ZfZwrD4BpxRiPy), qualitative and quantitative methods in conducting my work. 
 
 Other than work, I enjoy reading and learning about people, their languages and cultures. I like to travel and snap pictures when I am out and about in nature. Some of the `pictures` clicked earlier during my travels can be found hosted in my `Wordpress` [website](https://priyankarbhattacharjee.wordpress.com/photography/) which I had earlier created, but no longer update (Therefore, most sections do not reflect recent information about me). 
 
