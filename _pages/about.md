@@ -31,5 +31,5 @@ Other than work, I enjoy reading and learning about people, their languages and 
 
 I am originally from `Shillong`, nestled in the beautiful hill state of Meghalaya in North Eastern India, and spent most of my childhood there. Later I completed my BE from Nagpur, before moving to US to complete my Masters at University of Nebraska, Lincoln, advised by [Tad Wysocki](https://engineering.unl.edu/person/tadeusz-wysocki/) and [Dale Tiller](https://engineering.unl.edu/person/dale-tiller/). If you are visiting Delhi and wish to discuss work, and/or just grab a meal or coffee together, please reach out (Online meets are also fine, although in that case you are going to miss out on the terrific food scene here in NCR). 
 
-Office: A-418 R&D, IIIT-D, New Delhi, India
+Office: A-418 R&D, IIIT-D, New Delhi, India <br>
 Email: priyankarb at iiitd.ac.in
