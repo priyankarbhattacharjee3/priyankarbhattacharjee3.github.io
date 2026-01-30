@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliation</a>Researcher.Quirky.Philosopher
+subtitle: <a href='#'>Researcher</a>..Quirky.Philosopher
 
 profile:
   align: right
