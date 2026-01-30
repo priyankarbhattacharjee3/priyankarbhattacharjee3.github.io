@@ -8,12 +8,8 @@ profile:
   align: right
   image: Profile_Pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>A-418 R&D</p>
-    <p>IIIT-D</p>
-    <p>New Delhi, India</p>
-    
-    <p>Now if you are wondering about the picture, it was clicked by my 8yo in Manali when she was trying to photograph the Himalayas, and I just accidentally happened to wander into the frame.</p> 
+  more_info: > 
+    <p>If you are wondering about the picture, it was clicked by my 8yo in Manali when she was trying to photograph the Himalayas, and I just accidentally happened to wander into the frame.</p> 
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -34,3 +30,6 @@ I am a PhD researcher in Human-Computer Interaction `(HCI)` at the Dept. of Huma
 Other than work, I enjoy reading and learning about people, their languages and cultures. I like to travel and snap pictures when I am out and about in nature. Some of the pictures clicked earlier during my travels can be found hosted in my `Wordpress` [website](https://priyankarbhattacharjee.wordpress.com/photography/) which I had earlier created, but no longer update (Therefore, most sections do not reflect recent information about me). 
 
 I am originally from `Shillong`, nestled in the beautiful hill state of Meghalaya in North Eastern India, and spent most of my childhood there. Later I completed my BE from Nagpur, before moving to US to complete my Masters at University of Nebraska, Lincoln, advised by [Tad Wysocki](https://engineering.unl.edu/person/tadeusz-wysocki/) and [Dale Tiller](https://engineering.unl.edu/person/dale-tiller/). If you are visiting Delhi and wish to discuss work, and/or just grab a meal or coffee together, please reach out (Online meets are also fine, although in that case you are going to miss out on the terrific food scene here in NCR). 
+
+Office: A-418 R&D, IIIT-D, New Delhi, India
+Email: priyankarb at iiitd.ac.in
