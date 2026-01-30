@@ -9,7 +9,7 @@ profile:
   image: Profile_Pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Staring at the mighty Himalayas</p>
+    <p>Staring at the mighty Himalayas...</p>
     <p>Jan, 2026</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
