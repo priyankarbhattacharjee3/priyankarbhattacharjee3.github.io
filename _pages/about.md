@@ -9,7 +9,9 @@ profile:
   image: Profile_Pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: > 
-    <p>If you are wondering about the picture, it was clicked by my 8 year old in Manali when she was trying to photograph the Himalayas, and I just accidentally happened to wander into the frame.</p> 
+    <p>Me</p>
+    <p>Manali, HP, India</p>
+    <p>Jan 2026</p> 
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -33,3 +35,5 @@ I am originally from `Shillong`, nestled in the beautiful hill state of Meghalay
 
 Office: A-418 R&D, IIIT-D, New Delhi, India <br>
 Email: priyankarb at iiitd.ac.in
+
+Btw, if you are wondering about the picture, it was clicked by my 8 year old in Manali when she was trying to photograph the Himalayas, and I just accidentally happened to wander into the frame.
