@@ -9,7 +9,7 @@ profile:
   image: Profile_Pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: > 
-    <p>If you are wondering about the picture, it was clicked by my 8yo in Manali when she was trying to photograph the Himalayas, and I just accidentally happened to wander into the frame.</p> 
+    <p>If you are wondering about the picture, it was clicked by my 8 year old in Manali when she was trying to photograph the Himalayas, and I just accidentally happened to wander into the frame.</p> 
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
