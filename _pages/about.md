@@ -31,4 +31,8 @@ I am a PhD researcher in Human Computer Interaction at the [AID Lab](https://aid
 
 Other than work, I enjoy reading and learning about people, their languages and cultures. I like to travel and snap pictures when I am out and about in nature. Some of the `pictures` clicked earlier during my travels can be found hosted in my `Wordpress` [website](https://priyankarbhattacharjee.wordpress.com/photography/) which I had earlier created, but no longer update (Therefore, most sections do not reflect recent information about me). 
 
+<<<<<<< HEAD
 I am originally from `Shillong`, nestled in the beautiful hill state of Meghalaya in North Eastern India, and spent most of my childhood there. Later I completed my BE from Nagpur, before moving to US to complete my Masters at University of Nebraska, Lincoln, advised by [Tad Wysocki](https://engineering.unl.edu/person/tadeusz-wysocki/) and [Dale Tiller](https://engineering.unl.edu/person/dale-tiller/). If you wish to catch up to discuss work, or just grab a coffee or meal when visiting Delhi, please feel free to reach out.
+=======
+I am originally from `Shillong`, nestled in the beautiful hill state of Meghalaya in North Eastern India, and spent most of my childhood there. Later I completed my BE from Nagpur, before moving to US to complete my Masters at University of Nebraska, Lincoln, advised by [Tad Wysocki](https://engineering.unl.edu/person/tadeusz-wysocki/) and [Dale Tiller](https://engineering.unl.edu/person/dale-tiller/). If you are visiting Delhi and wish to discuss work, and/or just grab a meal or coffee together, please reach out (Online meets also work btw, although you are going to miss the awesome food that they have around this part of India). 
+>>>>>>> 2c2a0bd8d40566c87b4d133a77d3e8015a147425
