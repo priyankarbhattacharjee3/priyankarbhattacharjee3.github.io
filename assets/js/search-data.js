@@ -445,8 +445,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-attended-empower-2025-at-iit-delhi-sparkles-smile",
+          title: 'Attended Empower 2025 at IIT Delhi ! :sparkles: :smile:',
           description: "",
           section: "News",},{id: "news-joined-aid-at-iiit-d-as-a-phd-student",
           title: 'Joined AID at IIIT-D as a PhD student',
