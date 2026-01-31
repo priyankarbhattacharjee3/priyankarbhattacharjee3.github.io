@@ -30,7 +30,7 @@ I am a PhD researcher in Human-Computer Interaction `(HCI)` at the Dept. of Huma
 
 Other than work, I enjoy reading and learning about people, their languages and cultures. I like to travel and snap pictures when I am out and about in nature. Some of the pictures clicked earlier during my travels can be found hosted in my `Wordpress` [website](https://priyankarbhattacharjee.wordpress.com/photography/) which I had earlier created, but no longer update (Therefore, most sections do not reflect recent information about me). 
 
-I am originally from `Shillong`, nestled in the beautiful hill state of Meghalaya in North Eastern India, and spent most of my childhood there. Later I completed my BE from Nagpur, before moving to US to complete my Masters at the University of Nebraska, Lincoln. Currently based in `Delhi`, so if you are visiting around here, and just wish to grab a meal or coffee together, please reach out to me (We could meet online too, although in that case you are probably going to miss out on the terrific food scene here in NCR). 
+I am originally from `Shillong`, nestled in the beautiful hills of Meghalaya in North Eastern India, and spent most of my childhood there. Later I completed my Bachelor in Engineering from Nagpur, before moving to US to complete my Masters at the University of Nebraska, Lincoln. Currently based in `Delhi`, so if you are visiting around here, and just wish to grab a meal or coffee together, please reach out to me (We could meet online too, although in that case you are probably going to miss out on the terrific food scene here in NCR). 
 
 Office: A-418 R&D, IIIT-D, New Delhi, India <br>
 Email: priyankarb at iiitd.ac.in
