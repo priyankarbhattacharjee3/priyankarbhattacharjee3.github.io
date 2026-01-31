@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Attended Empower 2025 at IIT Delhi ! :sparkles: :smile:
+Attended Empower 2025 at IIT Delhi ! :sparkles: :rocket:
