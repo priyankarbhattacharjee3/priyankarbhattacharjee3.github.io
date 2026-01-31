@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Attended Empower 2025 at IIT Delhi ! :sparkles: :smile:
