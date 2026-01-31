@@ -23,7 +23,7 @@ announcements:
 latest_posts:
   enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  limit: 2 # leave blank to include all the blog posts
 ---
 
 I am a PhD researcher in Human-Computer Interaction `(HCI)` at the Dept. of Human Centred Design, IIIT-Delhi. My research seeks to explore how to design technologies which allow older adults to meaningfully  explore the digital realm. I use both qualitative and quantitative methods, plus lots of [coffee](https://www.webstaurantstore.com/article/397/types-of-coffee-drinks.html?srsltid=AfmBOopsN5QgxreTR_topPjgL4f6-sRyyqTyCD_kS8ZfZwrD4BpxRiPy) in conducting my work. 
