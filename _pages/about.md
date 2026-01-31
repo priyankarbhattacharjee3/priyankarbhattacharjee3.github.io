@@ -35,4 +35,4 @@ I am originally from `Shillong`, nestled in the beautiful hills of Meghalaya in 
 Office: A-418 R&D, IIIT-D, New Delhi, India <br>
 Email: priyankarb at iiitd.ac.in
 
-Btw, if you are wondering about the picture, it was clicked by my 8 year old in Manali when she was trying to photograph the Himalayas, and I just accidentally happened to wander into the frame.
+Btw, if you are wondering about the picture, it was clicked by my 8 year old in `Manali` when she was trying to photograph the Himalayas, and I just accidentally happened to wander into the frame.
