@@ -15,7 +15,7 @@ cv:
   address:
     street: A-418 R&D IIIT-D
     city: New Delhi
-    region: NCR
+    region: ""
     postalCode: 110020
     countryCode: IN
 
