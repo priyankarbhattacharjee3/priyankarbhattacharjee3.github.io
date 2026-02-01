@@ -403,6 +403,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/range/";
+            },},{id: "books-the-art-of-statistics-learning-from-data",
+          title: 'The Art of Statistics- Learning from Data',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/metamorphosis/";
             },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
