@@ -418,7 +418,7 @@ ninja.data = [{
           title: 'Sapiens- A Brief History of Humankind',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
+              window.location.href = "/books/sapiens/";
             },},{id: "books-range-how-generalists-triumph-in-a-specialized-world",
           title: 'Range- How Generalists Triumph in a Specialized World',
           description: "",
