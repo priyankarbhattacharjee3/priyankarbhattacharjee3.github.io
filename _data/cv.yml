@@ -2,7 +2,7 @@ cv:
   name: Priyankar Bhattacharjee
   label: PhD Researcher
   email: priyankarb at iiitd.ac.in
-  location: New Delhi, India
+  location: ""
   image: ""
   summary: A Human-Computer Interaction researcher focused on designing inclusive digital experiences for older adults.
 
@@ -13,33 +13,46 @@ cv:
       username: priyankarb
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+    street: A-418 R&D IIIT-D
+    city: New Delhi
+    region: Delhi
+    postalCode: 110020
+    countryCode: IN
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
+      - institution: IIIT-Delhi
+        location: New Delhi, India
+        url: https://www.iiitd.ac.in/
+        area: Human-Computer Interaction
         studyType: PhD
-        start_date: 1900
-        end_date: 1905
+        start_date: 2025
+        end_date: 
         score: ""
         courses: "Theory of Relativity"
         highlights:
           - Description 1.
           - Description 2.
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: University of Nebraska-Lincoln
+        location: USA
+        url: https://www.uzh.ch/
+        area: Telecommunications Engineering
+        studyType: MS
+        start_date: 2012
+        end_date: 2015
+        score: ""
+        courses: "Theory of Relativity"
+        highlights:
+          - Description 1.
+          - Description 2.
+
+      - institution: Nagpur Universty
+        location: India
+        area: Electrical Engineering
+        studyType: BE
+        start_date: 2005
+        end_date: 2009
         highlights:
           - Description 1.
           - Description 2.
