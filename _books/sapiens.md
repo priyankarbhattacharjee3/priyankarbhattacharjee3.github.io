@@ -6,13 +6,14 @@ cover: assets/img/book_covers/sapiens.jpg
 olid: OL26234146M # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: 0099590085 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: non-fiction, history, science, popular science anthropology
+#tags: blah-blah
 buy_link: https://amzn.in/d/1Fcjex9
-date: 2024-08-23
-started: 2024-08-23
-finished: 2024-09-07
-released: 1969
+date: 2025-07-14
+started: 2025-07-14
+finished: 2025-08-11
+released: 2011
 stars: 5
-goodreads_review: 6318556633
+#goodreads_review: 6318556633
 status: Finished
 ---
 
