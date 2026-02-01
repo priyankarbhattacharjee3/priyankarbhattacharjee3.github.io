@@ -29,10 +29,12 @@ cv:
         start_date: 2025
         end_date: 
         score: ""
-        courses: "Theory of Relativity"
+        #courses:  
         highlights:
-          - Description 1.
-          - Description 2.
+          - Ethics
+          - Accessibility and Inclusive Design.
+          - Ethnographic Methods
+          - Cognitive Processes 
 
       - institution: University of Nebraska-Lincoln
         location: USA
@@ -42,10 +44,11 @@ cv:
         start_date: 2012
         end_date: 2015
         score: ""
-        courses: "Theory of Relativity"
+        #courses: "Theory of Relativity"
         highlights:
-          - Description 1.
-          - Description 2.
+          - Wireless Sensor Networks.
+          - Network Security.
+          - Web Development.
 
       - institution: Nagpur Universty
         location: India
@@ -55,8 +58,8 @@ cv:
         start_date: 2005
         end_date: 2009
         highlights:
-          - Description 1.
-          - Description 2.
+          - Engineering Design.
+          - Micro-Controllers.
 
     Experience:
       - company: Institute for Advanced Study, Princeton University
