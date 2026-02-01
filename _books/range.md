@@ -6,7 +6,7 @@ cover: assets/img/book_covers/range.jpg
 olid: OL29482836M # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: 1509843515 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: non-fiction business psychology self-help audiobook science personal development
-tags: #1-best seller in rugby coaching
+tags: #1-best seller in rugby
 buy_link: https://amzn.in/d/00lOT42
 date: 2025-11-13
 started: 2025-11-13
