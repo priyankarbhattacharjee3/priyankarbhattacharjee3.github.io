@@ -203,7 +203,7 @@ cv:
       - name: UX Research
         level: Advanced
         icon: fa-solid fa-users
-        keywords: "Digital Accessibility, WCAG, Inclusive Design, Empathy Maps, Persona, User-Journeys, Psychological Principles"
+        keywords: "Digital Accessibility, WCAG, Inclusive Design, Empathy Maps, Persona, User-Journeys"
 
     Languages:
       - name: Bengali
@@ -225,25 +225,25 @@ cv:
         summary: "Basic"
 
     Interests:
-      - name: Physics
+      - name: Digital Inclusion of Older Adults
         icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+        keywords: "Ageing, Digital Divide, HCI, Gerontechnology, Digital Skills, Learning"
 
     Certificates:
-      - name: Machine Learning
+      - name: How to Design For An Aging Population
         date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
+        issuer: IxDF
+        icon: fa-solid fa-universal-access
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
+      # - name: Quantum Computing
+      #   date: 2018-01-01
+      #   issuer: Stanford University
+      #   icon: fa-solid fa-tag
 
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+      # - name: Quantum Information
+      #   date: 2018-01-01
+      #   issuer: Stanford University
+      #   icon: fa-solid fa-envelope
 
     Projects:
       - name: Quantum Computing
