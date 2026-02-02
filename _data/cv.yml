@@ -31,11 +31,11 @@ cv:
         score: ""
         #courses:  
         highlights:
-          - Theory of Ethics
+          - Theory of Ethics.
           - Accessibility and Inclusive Design.
           - Ethnographic Methods.
           - Cognitive Processes. 
-          - User Research
+          - User Research.
 
       - institution: University of Nebraska-Lincoln
         location: USA
