@@ -139,42 +139,80 @@ cv:
         summary: The Infosys Client Appreciation Award recognizes employees for their exceptional collaboration, innovation, and contributions to successful project outcomes when working for an external client's project.
 
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - title: Older adults and their acquisition of digital skills- A review of current research evidence
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+          - Priyankar Bhattacharjee
+          - Steven Baker
+          - Jenny Waycott 
+        publisher: ACM
+        releaseDate: 2021-02-15
+        url: https://dl.acm.org/doi/10.1145/3441000.3441053
+        summary: Conducted a systematic literature review of 22 articles examining challenges older adults face when learning digital skills. Identified five primary barrier categories- age-related factors, technology design issues, low self-efficacy, negative societal attitudes, and inadequate training materials. Found that learning challenges often trigger anxiety and fear, undermining confidence in technology use. Proposed recommendations for improving digital skills training to better support older adult learners.
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+      - title: VCare- A Personal Emergency Response System to Promote Safe and Independent Living Among Elders Staying by Themselves in Community or Residential Settings
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+          - Priyankar Bhattacharjee
+        publisher: Digital Commons, University of Nebraska-Lincoln
+        releaseDate: 2015-05-01
+        url: https://digitalcommons.unl.edu/ceendiss/32/
+        summary: This thesis proposes an information and communication technology (ICT) solution for remote monitoring of older individuals. The work presents a robust, cost-effective, and secure system design that enables caregivers to monitor functional status and receive alerts during emergencies, while mitigating data security risks and service costs. The research contributes to the field of technology-assisted independent living by offering solutions that reduce caregiver burden and support ageing in place.
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
+      - title: Workplace monitoring of employee health using the workstation PC as a platform
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+          - Priyankar Bhattacharjee
+        publisher: IEEE
+        releaseDate: 2015-02-12
+        url: https://ieeexplore.ieee.org/document/7038923
+        summary: This work proposed a novel approach to healthcare monitoring that utilizes office workstation PCs to track employee health, reducing reliance on wearable devices and traditional telehealth systems. Demonstrated how this technology can minimize doctor visits during work hours, decrease dependency on institutional healthcare settings for routine check-ups, and enable early detection of health deterioration. The research shows potential for reducing sick leave, improving employee productivity, and lowering healthcare expenditures by facilitating timely interventions for chronic illness management in the workplace.
+
+      - title: The Computer Mouse as health monitoring tool aimed to alleviate the negative impact of missed appointments.
+        authors:
+          - Priyankar Bhattacharjee
+        publisher: IEEE
+        releaseDate: 2015-02-12
+        url: https://www.researchgate.net/publication/265905991_The_Computer_Mouse_as_health_monitoring_tool_aimed_to_alleviate_the_negative_impact_of_missed_appointments#fullTextFileContent
+        summary: Proposed a novel remote health monitoring approach that provides healthcare providers with real-time access to patient health status, thereby reducing the need for routine clinical visits. The research offers an alternative to existing reminder systems and predictive algorithms by enabling continuous patient monitoring that minimizes appointment-based care dependencies and associated no-show rates.
+
 
     Skills:
-      - name: Physics
-        level: Master
+      - name: Data Analysis and Visualisation
+        level: Advanced
+        icon: fa-solid fa-chart-line
+        keywords: "XL, Qualtrics, Dashboard Design in JavaScript, Python"
+
+      - name: Qualitative Methods
+        level: Advanced
         icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+        keywords: "Survey-Design, Semi-Structured Interviews, Literature Review, Participant Recruitment, Ethics Application, Transcribing"
+
+      - name: Software Engineering
+        level: Advanced
+        icon: fa-solid fa-terminal
+        keywords: "Web-Development, Software Testing, Requirements Gathering, Software Automation, NodeJs, HTML5, CSS"
+
+      - name: UX Research
+        level: Advanced
+        icon: fa-solid fa-users
+        keywords: "Digital Accessibility, WCAG, Inclusive Design, Empathy Maps, Persona, User-Journeys, Psychological Principles"
 
     Languages:
-      - name: German
+      - name: Bengali
         summary: "Native speaker"
 
       - name: English
         summary: "Fluent"
+
+      - name: Hindi
+        summary: "Fluent"
+
+      - name: Assamese
+        summary: "Fluent"
+
+      - name: Persian
+        summary: "Basic"
+
+      - name: Nepali
+        summary: "Basic"
 
     Interests:
       - name: Physics
