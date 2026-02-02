@@ -231,7 +231,7 @@ cv:
 
     Certificates:
       - name: How to Design For An Aging Population
-        date: 2018-01-01
+        date: 2025-01-01
         issuer: IxDF
         icon: fa-solid fa-universal-access
 
