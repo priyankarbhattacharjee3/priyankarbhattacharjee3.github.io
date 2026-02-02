@@ -27,12 +27,12 @@ cv:
         area: Human-Computer Interaction
         studyType: PhD
         start_date: 2025
-        end_date: 
+        end_date:
         score: ""
-        #courses:  
+        #courses:
         highlights:
           - Accessibility and Inclusive Design.
-          - Cognitive Processes. 
+          - Cognitive Processes.
           - Digital Ethnography.
           - Ethics.
           - User Research.
@@ -47,7 +47,7 @@ cv:
         score: ""
         #courses: "Theory of Relativity"
         highlights:
-          - Network Security. 
+          - Network Security.
           - Wireless Sensor Networks.
           - Web Development.
 
@@ -64,12 +64,12 @@ cv:
           - Micro-Controllers.
 
     Experience:
-      - company: Comcast 
+      - company: Comcast
         position: Software Development Engineer in Test 2
         location: India
         start_date: 2022
         end_date: 2025
-        summary: In this role I was mainly involved in testing software products in the telecom domain. 
+        summary: In this role I was mainly involved in testing software products in the telecom domain.
         highlights:
           - Computer Networking.
           - Quality Assurance.
@@ -91,7 +91,7 @@ cv:
         location: Mt. Laurel, NJ, USA
         start_date: 2016
         end_date: 2018
-        summary: One of the major highlights of my time in this role was creation of a tool (dashboard) consisting of charts and graphs to allow network engineers to monitor network traffic to discover and report anomalies. 
+        summary: One of the major highlights of my time in this role was creation of a tool (dashboard) consisting of charts and graphs to allow network engineers to monitor network traffic to discover and report anomalies.
         highlights:
           - Voice over IP.
           - Elasticsearch, Logstash, Kibana and JavaScript.
@@ -131,7 +131,7 @@ cv:
         date: 2014
         awarder: U.S. National Science Foundation
         url: https://www.nsf.gov/
-        summary: The student travel grant is a funding support program sponsored by the US National Science Foundation (NSF) to help students cover costs associated with attending academic conferences and related research events. 
+        summary: The student travel grant is a funding support program sponsored by the US National Science Foundation (NSF) to help students cover costs associated with attending academic conferences and related research events.
 
       - title: Client Appreciation Award
         date: 2018
@@ -143,7 +143,7 @@ cv:
         authors:
           - Priyankar Bhattacharjee
           - Steven Baker
-          - Jenny Waycott 
+          - Jenny Waycott
         publisher: ACM
         releaseDate: 2021-02-15
         url: https://dl.acm.org/doi/10.1145/3441000.3441053
@@ -172,7 +172,6 @@ cv:
         releaseDate: 2015-02-12
         url: https://www.researchgate.net/publication/265905991_The_Computer_Mouse_as_health_monitoring_tool_aimed_to_alleviate_the_negative_impact_of_missed_appointments#fullTextFileContent
         summary: Proposed a novel remote health monitoring approach that provides healthcare providers with real-time access to patient health status, thereby reducing the need for routine clinical visits. The research offers an alternative to existing reminder systems and predictive algorithms by enabling continuous patient monitoring that minimizes appointment-based care dependencies and associated no-show rates.
-
 
     Skills:
       - name: Data Analysis and Visualisation
