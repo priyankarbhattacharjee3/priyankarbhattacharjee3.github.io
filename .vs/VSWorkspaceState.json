@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\_bibliography",
+    "\\_data"
   ],
-  "SelectedNode": "\\.gitignore",
+  "SelectedNode": "\\_data\\cv.yml",
   "PreviewInSolutionExplorer": false
 }
