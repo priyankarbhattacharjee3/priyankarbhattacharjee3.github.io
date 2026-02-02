@@ -4,7 +4,7 @@ cv:
   email: priyankarb at iiitd.ac.in
   location: ""
   image: ""
-  summary: A Human-Computer Interaction researcher focused on designing inclusive digital experiences for older adults.
+  summary: A Human-Computer Interaction researcher, focused on designing inclusive digital experiences for older adults.
 
   social_networks:
     - network: bluesky
@@ -71,37 +71,61 @@ cv:
         end_date: 2025
         summary: In this role I was mainly involved in testing software products in the telecom domain. 
         highlights:
-          - Software Testing.
+          - Computer Networking.
+          - Quality Assurance.
           - Project Planning.
           - Session Initiation Protocol.
-          - Computer Networking.
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: University of Melbourne
+        position: Researcher
+        location: Victoria, Australia
+        start_date: 2018
+        end_date: 2022
+        summary: While in this role, I learnt the intricacies and nuances of qualitative HCI research. Also, taught a course on web programming to graduate and post-graduate students.
         highlights:
-          - Description 1.
-          - Description 2.
+          - Semi-Structured Interviews.
+          - Teaching Web programming.
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
+      - company: Infosys Ltd.
+        position: Technology Analyst
+        location: Mt. Laurel, NJ, USA
+        start_date: 2016
+        end_date: 2018
+        summary: One of the major highlights of my time in this role was creation of a tool (dashboard) consisting of charts and graphs to allow network engineers to monitor network traffic to discover and report anomalies. 
+        highlights:
+          - Voice over IP.
+          - Elasticsearch, Logstash, Kibana and JavaScript.
 
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
+      - company: Gallup Inc.
+        position: System Application Developer
+        location: Omaha, NE, USA
+        start_date: 2014
+        end_date: 2016
+        summary: In this role, I implemented front-end and back-end code changes to improve user experience of the Gallup homepage.
+        highlights:
+          - C#.
+          - SharePoint.
 
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
+      - company: Comviva
+        position: Software Engineer
+        location: Bangalore, India
+        start_date: 2011
+        end_date: 2012
+        summary: In this role, I contributed to the development of several tools, and automated several manual processes to enhance the QA team's efficiency.
+        highlights:
+          - C.
+          - Selenium.
+
+      - company: Tismo
+        position: Trainee Engineer
+        location: Bangalore, India
+        start_date: 2010
+        end_date: 2011
+        summary: My first job, where I developed hands on coding experience, and contributed to the development of software for scanning tissue sample.
+        highlights:
+          - C#.
+          - C.
+
 
     Volunteer:
       - company: People's Climate March
