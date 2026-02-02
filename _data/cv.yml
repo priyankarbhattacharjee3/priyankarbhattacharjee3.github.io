@@ -188,7 +188,7 @@ cv:
       - name: Data Analysis and Visualisation
         level: Advanced
         icon: fa-solid fa-chart-line
-        keywords: "XL, Qualtrics, Dashboard Design in JavaScript, Python"
+        keywords: "XL, Qualtrics, Dashboard Design using JavaScript, Python"
 
       - name: Qualitative Methods
         level: Advanced
