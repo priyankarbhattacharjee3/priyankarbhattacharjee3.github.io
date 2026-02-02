@@ -140,12 +140,14 @@ cv:
     Awards:
       - title: NSF Student Grant 2014
         date: 2014
+        authors: ""
         awarder: U.S. National Science Foundation
         url: https://www.nsf.gov/
         summary: The student travel grant is a funding support program sponsored by the US National Science Foundation (NSF) to help students cover costs associated with attending academic conferences and related research events.
 
       - title: Client Appreciation Award
         date: 2018
+        authors: ""
         awarder: Infosys Ltd.
         summary: The Infosys Client Appreciation Award recognizes employees for their exceptional collaboration, innovation, and contributions to successful project outcomes when working for an external client's project.
 
