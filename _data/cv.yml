@@ -58,20 +58,23 @@ cv:
         studyType: BE
         start_date: 2005
         end_date: 2009
+        score: ""
         highlights:
           - Engineering Design.
           - Micro-Controllers.
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Comcast 
+        position: Software Development Engineer in Test 2
+        location: India
+        start_date: 2022
+        end_date: 2025
+        summary: In this role I was mainly involved in testing software products in the telecom domain. 
         highlights:
-          - Relativity
-          - Description 2.
+          - Software Testing.
+          - Project Planning.
+          - Session Initiation Protocol.
+          - Computer Networking.
 
       - company: California Institute of Technology
         position: Visiting Professor
