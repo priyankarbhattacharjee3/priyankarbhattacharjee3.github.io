@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\HCD\\Desktop\\Projects\\priyankarbhattacharjee3.github.io\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HCD\\Desktop\\Projects\\priyankarbhattacharjee3.github.io\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HCD\\Desktop\\Projects\\priyankarbhattacharjee3.github.io\\_data\\cv.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_data\\cv.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HCD\\Desktop\\Projects\\priyankarbhattacharjee3.github.io\\_bibliography\\papers.bib||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_bibliography\\papers.bib||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "papers.bib",
+              "DocumentMoniker": "C:\\Users\\HCD\\Desktop\\Projects\\priyankarbhattacharjee3.github.io\\_bibliography\\papers.bib",
+              "RelativeDocumentMoniker": "_bibliography\\papers.bib",
+              "ToolTip": "C:\\Users\\HCD\\Desktop\\Projects\\priyankarbhattacharjee3.github.io\\_bibliography\\papers.bib",
+              "RelativeToolTip": "_bibliography\\papers.bib",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIPSURBVDhPfZJLa5NREIafc5KvadKa2EajQqtoayqt2IW4kIqogS68bHTTQrdduXXd/gF1I17ACoIG3WipqBvBW5deFoohFIuI1taWmLShly/5zhkXmjQxqS\u002B8MDMHHmbOjGJdba3hzo6KvErZ/JclEZMGVstFEVGlWCl98FjvyFsRU34vacXN0LXteDo5OTBkrUlVQnQpUFo3WAzzi6la5z7RGe3bN3gkmdTa1wMEawAo5ROxiEiNAYL\u002BCPEtR7sG\u002Bu4kldaxWoAIWANi6/rKiwRjk2f58G0iDsRrAaCsGP50se7b19d4/qyJgBMm4IQJNUZRSnv1AIjxiDkFRhPfOdO7SEtTgUP7C\u002Bxu9zNxy2P7VgdHBQDqApS1hrEDeQb2zjHaP89I5yDvLg1h5lbo7lGMXxWsNQDl7VUBRAwdIRcrzYSCmsPnHvAzfQo3E4ZsgWjM4\u002B\u002Ba6wOsLcJCGP25kdev\u002Brn8\u002BCZTrVFm3rRDxsX\u002BcrG2uCEAMYbZ6Z0wG6G3\u002BJFNOklz0zXavJfwdZX8pEJM9aHVbOFi1iU7vYvNs8KF5YcM5\u002B4SfN/AwtNmboyD/WcEfyUAa3jkm8HL7OB8bg\u002BNwRyi1lj1HJLicr\u002BYpyW08R\u002BUL\u002B\u002BJ/sFJSXNiZY7Eco7T7gL3CktVl1lS9QgYIqG2/9pS3UE58PmdbqV0HK0DpVpdWeuK2CnjFVMAvwEY/BW\u002B\u002BcBfWQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2026-02-02T10:15:40.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Users\\HCD\\Desktop\\Projects\\priyankarbhattacharjee3.github.io\\.gitignore",
-              "RelativeDocumentMoniker": ".gitignore",
-              "ToolTip": "C:\\Users\\HCD\\Desktop\\Projects\\priyankarbhattacharjee3.github.io\\.gitignore",
-              "RelativeToolTip": ".gitignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-02-02T09:31:28.584Z",
+              "Title": "cv.yml",
+              "DocumentMoniker": "C:\\Users\\HCD\\Desktop\\Projects\\priyankarbhattacharjee3.github.io\\_data\\cv.yml",
+              "RelativeDocumentMoniker": "_data\\cv.yml",
+              "ToolTip": "C:\\Users\\HCD\\Desktop\\Projects\\priyankarbhattacharjee3.github.io\\_data\\cv.yml",
+              "RelativeToolTip": "_data\\cv.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-02-02T09:33:16.9Z",
               "EditorCaption": ""
             }
           ]
