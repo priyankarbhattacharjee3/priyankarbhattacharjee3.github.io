@@ -31,10 +31,10 @@ cv:
         score: ""
         #courses:  
         highlights:
-          - Theory of Ethics.
           - Accessibility and Inclusive Design.
-          - Ethnographic Methods.
           - Cognitive Processes. 
+          - Ethnographic Methods.
+          - Theory of Ethics.
           - User Research.
 
       - institution: University of Nebraska-Lincoln
@@ -47,8 +47,8 @@ cv:
         score: ""
         #courses: "Theory of Relativity"
         highlights:
+          - Network Security. 
           - Wireless Sensor Networks.
-          - Network Security.
           - Web Development.
 
       - institution: Nagpur Universty
@@ -60,7 +60,7 @@ cv:
         end_date: 2009
         score: ""
         highlights:
-          - Engineering Design.
+          - C Programming.
           - Micro-Controllers.
 
     Experience:
