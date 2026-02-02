@@ -1,13 +1,13 @@
 cv:
   name: Priyankar Bhattacharjee
   label: PhD Researcher
-  email: priyankarb at iiitd.ac.in
+  email: priyankarb@iiitd.ac.in
   location: ""
   image: ""
   summary: A Human-Computer Interaction researcher, focused on designing inclusive digital experiences for older adults.
 
   social_networks:
-    - network: bluesky
+    - network: Bluesky
       username: techimonki.bsky.social
     - network: LinkedIn
       username: priyankarb
@@ -126,16 +126,16 @@ cv:
           - C#.
           - C.
 
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+    Volunteer: []
+      # - company: People's Climate March
+      #   position: Lead Organizer
+      #   location: Zurich, Switzerland
+      #   start_date: 2014-04-01
+      #   end_date: 2015-07-01
+      #   summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+      #   highlights:
+      #     - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
+      #     - "Men of the year 2014 by Time magazine"
 
     Awards:
       - title: NSF Student Grant 2014
