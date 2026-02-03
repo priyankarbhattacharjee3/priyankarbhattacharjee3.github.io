@@ -398,6 +398,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/sapiens/";
+            },},{id: "books-equality-what-it-means-and-why-it-matters",
+          title: 'Equality- What It Means and Why It Matters',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/equality/";
             },},{id: "books-range-how-generalists-triumph-in-a-specialized-world",
           title: 'Range- How Generalists Triumph in a Specialized World',
           description: "",
