@@ -413,6 +413,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/theartofstatistics/";
+            },},{id: "books-heart-lamp",
+          title: 'Heart Lamp',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/heart-lamp/";
             },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
