@@ -9,10 +9,10 @@ categories: econometrics statistics mathematics economics
 buy_link: https://amzn.in/d/dyO0LL7
 date: 2026-01-31
 started: 2026-01-31
-#finished: 2025-12-31
+finished: 2026-03-15
 released: 2019
-#stars: 5
-status: Reading
+stars: 4.5
+status: Finished
 ---
 
 'A statistical national treasure' Jeremy Vine, BBC Radio 2
