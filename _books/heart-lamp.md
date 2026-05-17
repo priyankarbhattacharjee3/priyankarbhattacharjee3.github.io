@@ -11,7 +11,7 @@ date: 2026-02-01
 started: 2026-02-01
 finished: 2025-05-12
 released: 2025
-#stars: 4
+stars: 4
 status: Reading
 ---
 
