@@ -418,6 +418,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/heart-lamp/";
+            },},{id: "books-selfish-gene",
+          title: 'Selfish Gene',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/selfish-gene/";
             },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
