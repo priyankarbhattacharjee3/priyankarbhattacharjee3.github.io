@@ -9,7 +9,7 @@ categories: short-stories contemporary-fiction
 buy_link: https://amzn.in/d/0ajgF8fM
 date: 2026-02-01
 started: 2026-02-01
-finished: 2025-05-12
+finished: 2026-05-12
 released: 2025
 stars: 4
 status: Finished
